@@ -1,0 +1,10 @@
+! Title: Anti-sites that asks you to create a free account, but requires a credit card to create it
+! Expires: 3 days
+! Description: This lists blocks sites that says that they are free, but requires creditcard information. This is not for sites that have content behind a paywall or that ask for money on a honest way, 
+! but for sites that seems to be trying to trick you on giving credit card details 
+! Homepage: https://github.com/alexandre-vasc/miscfilters
+! License: https://github.com/alexandre-vasc/miscfilters/LICENSE
+! This filterlist is compatible with uBlock Origin and Adguard.
+
+! General
+firstebook.club^
