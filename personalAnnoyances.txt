@@ -1,0 +1,27 @@
+! Title: Personal Annoyances
+! Expires: 3 days
+! Description: List of sites that I personally dislike. Maybe they are annoying, or have a paywall that I'm not willing to pay. 
+! Homepage: https://github.com/alexandre-vasc/miscfilters
+! License: https://github.com/alexandre-vasc/miscfilters/LICENSE
+! This filterlist is compatible with uBlock Origin and Adguard.
+
+! General
+fortune.com^
+vpnelf.com^
+gamevicio.com^
+areca-backup.org^
+handybackup.net^
+bignox.com^
+tradepub.com^
+goodreads.com^
+minitool.com^
+comoeurealmente.com^
+sheetmusicplus.com^
+musicsheets.org^
+leawo.org^
+bloomberg.com^
+veinaboa.com.br^
+etsy.com^
+
+! 2022-02-09 https://www.conqueronline.com.br
+conqueronline.com.br^
