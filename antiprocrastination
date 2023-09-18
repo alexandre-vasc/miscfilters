@@ -1,0 +1,12 @@
+! Title: Block infinity scrolling sites
+! Expires: 3 days
+! Description: This list blocks sites that are a 'time sink'. They have a infinity scrolling of content (or similar) and make you hooked
+! Homepage: https://github.com/alexandre-vasc/miscfilters
+! License: https://github.com/alexandre-vasc/miscfilters/LICENSE
+! This filterlist is compatible with uBlock Origin and Adguard.
+
+! General
+reddit.com
+9gag.com
+gag101.com
+

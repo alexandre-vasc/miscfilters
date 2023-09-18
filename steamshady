@@ -1,0 +1,12 @@
+! Title: Anti steam scam
+! Expires: 30 days
+! Description: This list blocks sites that are scam sites or sites that are not worth the time. They are related to Steam promotions and giveaways
+! but for sites that seem to be trying to trick you into giving credit card details. 
+! Homepage: https://github.com/alexandre-vasc/miscfilters
+! License: https://github.com/alexandre-vasc/miscfilters/LICENSE
+! This filterlist is compatible with uBlock Origin and Adguard.
+
+! General
+skinswap.com^
+csbumps.com^
+vk.com^
