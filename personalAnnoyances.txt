@@ -26,6 +26,7 @@ directvgo.com^
 windowsreport.com^
 economist.com^
 respect-and-honor.com^
+uol.com.br^
 
 ! 2022-02-09 https://www.conqueronline.com.br
 conqueronline.com.br^
