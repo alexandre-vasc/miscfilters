@@ -6,7 +6,9 @@
 ! This filterlist is compatible with uBlock Origin and Adguard.
 
 ! General
-reddit.com
-9gag.com
-gag101.com
-
+reddit.com^
+9gag.com^
+gag101.com^
+instagram.com^
+x.com^
+twitter.com^
