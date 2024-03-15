@@ -1,0 +1,51 @@
+
+! Title: All Alex-vasc's personal annoyances
+! Expires: 5 days
+! Description: This list contains the sites on most of others lists of Alex's repository
+! except for anti-procrastination list 
+! Homepage: https://github.com/alexandre-vasc/miscfilters
+! License: https://github.com/alexandre-vasc/miscfilters/LICENSE
+! This filterlist is compatible with uBlock Origin and Adguard.
+threads.net^
+calangodocerrado.net^
+sheetmusicplus.com^
+conqueronline.com.br^
+bignox.com^
+yayskins.com^
+firstgamemarket.com^
+respect-and-honor.com^
+windowsreport.com^
+skinauctions.com^
+firstebook.club^
+musicsheets.org^
+editoraelefante.com.br^
+etsy.com^
+goodreads.com^
+skillshare.com^
+handybackup.net^
+directvgo.com^
+vlootrewards.com^
+gamesforfarm.com^
+bloomberg.com^
+economist.com^
+gameauctions.io^
+skinswap.com^
+veinaboa.com.br^
+gamevicio.com^
+minitool.com^
+vpnelf.com^
+leawo.org^
+areca-backup.org^
+humordaterra.com^
+tradepub.com^
+skinrave.gg^
+skinsmonkey.com^
+fortune.com^
+vk.com^
+onlyfans.com^
+csbumps.com^
+streamingsbrasil.com^
+uol.com.br^
+rustmagic.com^
+leakedbb.com^
+comoeurealmente.com^
