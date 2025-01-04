@@ -21,3 +21,4 @@ rustmagic.com^
 skinsmonkey.com^
 skinrave.gg^
 gamesforfarm.com^
+clash.gg^

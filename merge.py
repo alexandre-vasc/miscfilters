@@ -30,7 +30,7 @@ def merge_files(directory):
     # Write merged lines to a new file
     with open("merged_output.txt", "w") as merged_file:
         merged_file.write(file_header)
-        for line in merged_lines:
+        for line in sorted(merged_lines):
             merged_file.write(line.strip() + '\n')
 
 if __name__ == "__main__":
