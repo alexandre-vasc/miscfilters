@@ -44,10 +44,12 @@ skinswap.com^
 streamingsbrasil.com^
 threads.net^
 tradepub.com^
+twitter.com^
 uol.com.br^
 veinaboa.com.br^
 vk.com^
 vlootrewards.com^
 vpnelf.com^
 windowsreport.com^
+x.com^
 yayskins.com^
