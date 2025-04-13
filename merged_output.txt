@@ -6,7 +6,6 @@
 ! Homepage: https://github.com/alexandre-vasc/miscfilters
 ! License: https://github.com/alexandre-vasc/miscfilters/LICENSE
 ! This filterlist is compatible with uBlock Origin and Adguard.
-! Title: Anti steam scam
 areca-backup.org^
 bignox.com^
 bloomberg.com^
@@ -15,6 +14,7 @@ clash.gg^
 comoeurealmente.com^
 conqueronline.com.br^
 csbumps.com^
+csgold.gg^
 csgold.gg^
 directvgo.com^
 economist.com^
@@ -52,6 +52,7 @@ veinaboa.com.br^
 vk.com^
 vlootrewards.com^
 vpnelf.com^
+whatsondisneyplus.com^
 windowsreport.com^
 x.com^
 yayskins.com^
