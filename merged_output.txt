@@ -15,7 +15,7 @@ comoeurealmente.com^
 conqueronline.com.br^
 csbumps.com^
 csgold.gg^
-csgold.gg^
+csgoselly.com^
 directvgo.com^
 economist.com^
 editoraelefante.com.br^
@@ -23,6 +23,7 @@ etsy.com^
 firstebook.club^
 firstgamemarket.com^
 fortune.com^
+freecash.com^
 gameauctions.io^
 gamesforfarm.com^
 gamevicio.com^
